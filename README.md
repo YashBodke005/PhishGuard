@@ -18,7 +18,7 @@ PhishGuard is a comprehensive phishing email detection solution designed to enha
 1. Clone the PhishGuard repository:
 
    ```bash
-   git clone https://github.com/karandomguy/PhishGuard.git
+   git clone https://github.com/YashBodke005/PhishGuard.git
    cd PhishGuard
    ```
 
